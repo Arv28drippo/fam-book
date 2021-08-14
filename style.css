@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(blue, purple, red);
+}
+button{
+    font-size: 25;
+    background-color: bisque;
+    border-radius: 20%;
+    color: black;
+}
+h1{
+    font-size: 40px;
+    color: aliceblue;
+    text-decoration: underline;
+}
+h3{
+    font-size: 30px;
+    color: aliceblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+img{
+    width: 25%;
+}
